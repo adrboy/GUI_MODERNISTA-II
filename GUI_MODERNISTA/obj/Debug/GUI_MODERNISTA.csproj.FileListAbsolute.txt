@@ -1,0 +1,49 @@
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+E:\TUT\PROYECTOS\gui_modernista\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\gui_modernista\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+E:\TUT\PROYECTOS\gui_modernista\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.productos.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.productos.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.Cache
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csprojAssemblyReference.cache
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.productos.resources
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.cache
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.CoreCompileInputs.cache
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+F:\GUI_MODERNISTA II\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csprojAssemblyReference.cache
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.inicio.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.productos.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.cache
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Sistemas\Documents\Visual Studio 2012\Projects\MoldeProgramacion\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Sistemas\source\repos\GUI_MODERNISTA II\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Sistemas\source\repos\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Sistemas\source\repos\GUI_MODERNISTA II\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
